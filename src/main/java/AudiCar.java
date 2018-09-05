@@ -16,4 +16,8 @@ public class AudiCar implements ICar {
 
         return this.name+" is Driving";
     }
+
+    public void test() {
+
+    }
 }
